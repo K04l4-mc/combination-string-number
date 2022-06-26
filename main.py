@@ -9,8 +9,14 @@ def replace_number(word):
     dic = {"o": "0",
            "a": "4",
            "e": "3",
-           "i": "1"
+           "i": "1",
+           "t": "7",
+           "g": "9",
+           "b": "8",
+           "l": "2",
+           "s": "5"
            }
+    
     list_words = [word]
     # I will replace this two list/array with a dictionary, but right now I'm too bored
     list_comp = []
