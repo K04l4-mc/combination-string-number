@@ -43,5 +43,3 @@ def replace_number(word):
                 counter += 1
         word = word_old
     return list_words
-
-print(replace_number("aiuole"))
